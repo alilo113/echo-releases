@@ -2,26 +2,6 @@
 
 Welcome to the official repository for **Echo AI**, a lightweight, privacy-first Visual Studio Code extension that brings local RAG (Retrieval-Augmented Generation) and AI coding assistance directly into your development environment via [Ollama](https://ollama.com/).
 
----
-
-## 🚀 Key Features
-
-- **100% Local & Private:** Runs entirely on your hardware using Ollama. Zero code is sent to external cloud servers.
-
-- **Smart Codebase RAG:** Automatically indexes your local files to answer questions with precise codebase context.
-
-- **Intelligent RAM-Based Model Selection:** Echo automatically detects your system memory and pairs with the optimal local model (`qwen2.5-coder`, `llama3.2`, etc.).
-
-- **Dual Coding Assistance:** Features both interactive sidebar chat and fast, context-aware inline code completions.
-
-- **30-Prompt Free Trial:** Test all capabilities directly in your actual workspace before purchasing.
-
----
-
-# Echo AI — 100% Local RAG Assistant for VS Code
-
-Welcome to the official repository for **Echo AI**, a lightweight, privacy-first Visual Studio Code extension that brings local RAG (Retrieval-Augmented Generation) and AI coding assistance directly into your development environment via [Ollama](https://ollama.com/).
-
 ## 🚀 Key Features
 
 - **100% Local & Private:** Runs entirely on your hardware using Ollama. Zero code is sent to external cloud servers.
