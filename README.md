@@ -4,12 +4,6 @@ Welcome to the official repository for **Echo AI**, a lightweight, privacy-first
 
 ---
 
-## 🎬 Demo Video
-
-<video src="./Enregistrement%202026-10-12%20133551.mp4" controls width="100%"></video>
-
----
-
 ## 🚀 Key Features
 
 - **100% Local & Private:** Runs entirely on your hardware using Ollama. Zero code is sent to external cloud servers.
