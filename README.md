@@ -2,6 +2,8 @@
 
 Welcome to the official repository for **Echo AI**, a lightweight, privacy-first Visual Studio Code extension that brings local RAG (Retrieval-Augmented Generation) and AI coding assistance directly into your development environment via [Ollama](https://ollama.com/).
 
+---
+
 ## 🚀 Key Features
 
 - **100% Local & Private:** Runs entirely on your hardware using Ollama. Zero code is sent to external cloud servers.
@@ -35,7 +37,6 @@ Welcome to the official repository for **Echo AI**, a lightweight, privacy-first
 ```bash
 code --install-extension Echo-1.0.0.vsix
 ````
-
 
 ## 🛠️ Requirements
 - Ollama installed and running locally.
